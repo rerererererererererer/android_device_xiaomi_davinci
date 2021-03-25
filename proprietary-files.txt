@@ -318,6 +318,8 @@ media/audio/ui/popup_throne_room_down.ogg|0a250fbad938fb64cdf1d19220bf02e50811ff
 media/audio/ui/popup_throne_room_up.ogg|e52d7c2a15f899a02ae02184a31ffe89f6bc167c
 media/audio/ui/popup_super_mario_down.ogg|8cb36a344e844c2909e5eaf0c5329c7043f0ad8f
 media/audio/ui/popup_super_mario_up.ogg|a3d022ef6b3654be67a55180b5a5150dfb837060
+media/audio/ui/popup_anime_moan_down.ogg|d458cc92846130f33212a82c71533c2448987380
+media/audio/ui/popup_anime_moan_up.ogg|98b48fc4eadbf85646f1dd83ef50857d90b1e2a2
 
 # Charger
 vendor/bin/hvdcp_opti
